@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi, I am Marie-Ghael ! I am new on Github but I am here with an exciting will to learn how to code. 
+I am still Marie Ghael and I would like to learn how to make the best clean code ever !
 My dream : Become an UI/UX Design
